@@ -1,0 +1,11 @@
+name: doubleword-provider
+kind: model-provider
+version: 1.0.0
+description: Doubleword models via the OpenAI-compatible API
+author: Doubleword
+requires_hermes: ">=0.23.2"
+requires_env:
+  - name: DOUBLEWORD_API_KEY
+    description: Doubleword API key
+    url: https://app.doubleword.ai
+    secret: true
