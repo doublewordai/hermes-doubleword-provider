@@ -1,6 +1,6 @@
 name: doubleword-provider
 kind: model-provider
-version: 1.0.0
+version: 1.0.1
 description: Doubleword models via the OpenAI-compatible API
 author: Doubleword
 requires_hermes: ">=0.23.2"
